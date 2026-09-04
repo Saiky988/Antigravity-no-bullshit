@@ -63,7 +63,7 @@ The goal isn't to make AI code "look human". The goal is to make the agent exerc
 ## Structure
 
 ```
-.antigravity/
+./
 ├── AGENTS.md
 └── skills/
     ├── anti-ai-code/
